@@ -41,3 +41,53 @@
 cloverrong@gmail.com
 
 通过接受本EULA，用户认可已经阅读、理解并同意受其条款和条件的约束。
+
+
+# End User License Agreement (EULA)
+
+**Effective Date:** October 2023
+
+Please read this End User License Agreement (hereinafter referred to as "EULA") carefully. This EULA is a legal agreement between you (individual or entity, hereinafter referred to as "User") and [Your Company Name] (hereinafter referred to as "Developer") regarding the User's use of the [Plugin Name] plugin (referred to as "Plugin") provided on JetBrains Marketplace. By downloading, installing, accessing, or using the Plugin, the User agrees to be bound by all the terms and conditions of this EULA. If the User does not accept these terms, they should not download, install, access, or use the Plugin.
+
+## 1. License and Scope
+The Developer grants the User a limited, non-exclusive, non-transferable, non-sublicensable license to use the Plugin according to the terms and conditions of this EULA. The Plugin is intended solely for User's own business or personal use and not for any other purpose.
+
+## 2. Restrictions
+The User shall not:
+
+- Reverse engineer, decompile, or disassemble the Plugin, except to the extent expressly permitted by applicable law.
+- Modify, adapt, translate, or create derivative works from the Plugin without the Developer's prior written consent.
+- Rent, lease, license, lend, transfer, or distribute the Plugin or any copies thereof.
+- Remove or alter any copyright, trademark, or other proprietary notices from the Plugin.
+
+## 3. Ownership
+The Plugin and all copies thereof are the property of the Developer, and all title, copyright, and other intellectual property rights in and to the Plugin are owned by the Developer. The User acknowledges that the Plugin constitutes proprietary information and that it is protected by applicable intellectual property laws and treaties.
+
+## 4. Support and Updates
+The Developer may, at their discretion, provide updates and support services for the Plugin. If provided, the User must comply with the terms related to such updates and services. The Developer is under no obligation to provide any updates or support services.
+
+## 5. Disclaimer of Warranty
+The Plugin is provided "as is," and to the maximum extent permitted by applicable law, the Developer disclaims any and all express or implied warranties, including, but not limited to, the implied warranties of merchantability, fitness for a particular purpose, and non-infringement of intellectual property rights. The Developer does not warrant that the operation of the Plugin will be uninterrupted or error-free.
+
+## 6. Limitation of Liability
+To the maximum extent permitted by applicable law, in no event shall the Developer be liable for any indirect, incidental, special, or consequential damages (including, but not limited to, damages for loss of profits, business interruption, loss of data, or other pecuniary loss) arising out of the use or inability to use the Plugin, even if the Developer has been advised of the possibility of such damages.
+
+## 7. Termination
+The Developer may terminate this EULA and the User's right to use the Plugin at any time without compensation to the User if the User fails to comply with any of the terms of this EULA. Upon termination, the User must destroy all copies of the Plugin and its components.
+
+## 8. General Terms
+- **Entire Agreement:** This EULA constitutes the entire agreement between the User and the Developer regarding the Plugin and supersedes all prior or contemporaneous communications or agreements.
+- **Severability:** If any part of this EULA is declared void or unenforceable, the remaining provisions will remain in full force and effect.
+- **Governing Law:** This EULA shall be governed by the laws of [Country/Region], without regard to its conflict of law principles.
+- **Dispute Resolution:** Any dispute arising from or relating to this EULA shall be resolved by the competent courts located in the Developer's jurisdiction.
+
+## 9. Contact Information
+If you have any questions about this EULA or the Plugin, please contact the Developer at:
+
+[Your Company Name]  
+[Address]  
+[Email Address]  
+[Phone Number]  
+[Website]  
+
+By accepting this EULA, the User acknowledges that they have read, understand, and agree to be bound by its terms and conditions.
