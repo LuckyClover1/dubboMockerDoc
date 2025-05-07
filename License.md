@@ -83,11 +83,6 @@ The Developer may terminate this EULA and the User's right to use the Plugin at 
 
 ## 9. Contact Information
 If you have any questions about this EULA or the Plugin, please contact the Developer at:
-
-[Your Company Name]  
-[Address]  
-[Email Address]  
-[Phone Number]  
-[Website]  
+cloverrong@gmail.com
 
 By accepting this EULA, the User acknowledges that they have read, understand, and agree to be bound by its terms and conditions.
