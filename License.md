@@ -2,7 +2,7 @@
 
 **版本日期：** 2023年10月
 
-请仔细阅读本最终用户许可协议（以下简称“EULA”）。本EULA是您（个人或实体，下称“用户”）与[您的公司名称]（下称“开发者”）之间关于用户使用JetBrains Marketplace上提供的[插件名称]插件（称作“插件”）的法律协议。通过下载、安装、访问或使用插件，用户即表示接受本EULA的所有条款和条件。如果用户不接受这些条款，请不要下载、安装、访问或使用插件。
+请仔细阅读本最终用户许可协议（以下简称“EULA”）。本EULA是您（个人或实体，下称“用户”）与开发者之间关于用户使用JetBrains Marketplace上提供的DubboMocker插件（称作“插件”）的法律协议。通过下载、安装、访问或使用插件，用户即表示接受本EULA的所有条款和条件。如果用户不接受这些条款，请不要下载、安装、访问或使用插件。
 
 ## 1. 授权与适用范围
 开发者授予用户一项有限、非排他性、不可转让、不可再许可的许可，以根据本EULA的条款和条件使用插件。插件仅供用户自身业务使用或个人使用，而不得用于其他目的。
@@ -33,7 +33,7 @@
 ## 8. 一般条款
 - **完整协议**：本EULA构成用户与开发者之间关于插件的完整协议，并取代先前或同时期的所有通信或协议。
 - **可分性**：如果本EULA的任何部分被认定为无效或不可执行，其余部分仍应有效并可执行。
-- **适用法律**：本EULA应受[国家/地区]法律管辖，对法律冲突无效。
+- **适用法律**：本EULA应受中国法律管辖，对法律冲突无效。
 - **争议解决**：任何因本EULA引起的或与之相关的争议，应提交开发者所在地有管辖权的法院解决。
 
 ## 9. 联系方式
@@ -48,7 +48,7 @@ cloverrong@gmail.com
 
 **Effective Date:** October 2023
 
-Please read this End User License Agreement (hereinafter referred to as "EULA") carefully. This EULA is a legal agreement between you (individual or entity, hereinafter referred to as "User") and [Your Company Name] (hereinafter referred to as "Developer") regarding the User's use of the [Plugin Name] plugin (referred to as "Plugin") provided on JetBrains Marketplace. By downloading, installing, accessing, or using the Plugin, the User agrees to be bound by all the terms and conditions of this EULA. If the User does not accept these terms, they should not download, install, access, or use the Plugin.
+Please read this End User License Agreement (hereinafter referred to as "EULA") carefully. This EULA is a legal agreement between you (individual or entity, hereinafter referred to as "User") and Developer regarding the User's use of the DubboMocker plugin (referred to as "Plugin") provided on JetBrains Marketplace. By downloading, installing, accessing, or using the Plugin, the User agrees to be bound by all the terms and conditions of this EULA. If the User does not accept these terms, they should not download, install, access, or use the Plugin.
 
 ## 1. License and Scope
 The Developer grants the User a limited, non-exclusive, non-transferable, non-sublicensable license to use the Plugin according to the terms and conditions of this EULA. The Plugin is intended solely for User's own business or personal use and not for any other purpose.
@@ -79,7 +79,7 @@ The Developer may terminate this EULA and the User's right to use the Plugin at 
 ## 8. General Terms
 - **Entire Agreement:** This EULA constitutes the entire agreement between the User and the Developer regarding the Plugin and supersedes all prior or contemporaneous communications or agreements.
 - **Severability:** If any part of this EULA is declared void or unenforceable, the remaining provisions will remain in full force and effect.
-- **Governing Law:** This EULA shall be governed by the laws of [Country/Region], without regard to its conflict of law principles.
+- **Governing Law:** This EULA shall be governed by the laws of China, without regard to its conflict of law principles.
 - **Dispute Resolution:** Any dispute arising from or relating to this EULA shall be resolved by the competent courts located in the Developer's jurisdiction.
 
 ## 9. Contact Information
